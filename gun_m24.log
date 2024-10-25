@@ -1,0 +1,1054 @@
+Exporter version: 3.3.2, Blender version: 4.2.3 LTS
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  C:\Users\nix\Documents\GitHub\deathlyhate.github.io\
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently enabled collection
+	processing begun of skeleton:  gun_m24_skeleton, id:  0
+		processing begun of bone:  gripHand, index:  0
+		processing begun of bone:  bullet_grip_target, index:  1
+		processing begun of bone:  foreHand, index:  2
+		processing begun of bone:  body, index:  3
+		processing begun of bone:  forestock_grip_target, index:  4
+		processing begun of bone:  grip_hand_target, index:  5
+		processing begun of bone:  bullet_load_target, index:  6
+		processing begun of bone:  action, index:  7
+		processing begun of bone:  action_lever, index:  8
+		processing begun of bone:  hand_load_target, index:  9
+		processing begun of bone:  bullet, index:  10
+		processing action fire_gun_m24_skeleton:  in[0 - 6], out[0 - 6]
+		processing action inspect_gun_m24_skeleton:  in[0 - 72], out[20 - 92]
+		processing action longReload.old_gun_m24_skeleton:  in[0 - 0], out[100 - 100]
+		processing action reload_gun_m24_skeleton:  in[0 - 48], out[110 - 158]
+	processing begun of mesh:  gun_m24
+		WARNING: No materials have been assigned: 
+		num positions      :  2395
+		num normals        :  2395
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  9580
+		num triangles      :  1088
+		Skeleton stats:  
+			Total Influencers:  2395
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  2395
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  9580
+	processing begun of mesh:  gun_m24_Badegg
+		WARNING: No materials have been assigned: 
+		num positions      :  2832
+		num normals        :  2832
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  11328
+		num triangles      :  1180
+		Skeleton stats:  
+			Total Influencers:  2832
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  2832
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  11328
+	processing begun of mesh:  gun_m24_Bear
+		WARNING: No materials have been assigned: 
+		num positions      :  3242
+		num normals        :  3242
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  12968
+		num triangles      :  1366
+		Skeleton stats:  
+			Total Influencers:  3242
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  3242
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  12968
+	processing begun of mesh:  gun_m24_Breakfast
+		WARNING: No materials have been assigned: 
+		num positions      :  2479
+		num normals        :  2479
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  9916
+		num triangles      :  1059
+		Skeleton stats:  
+			Total Influencers:  2479
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  2479
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  9916
+	processing begun of mesh:  gun_m24_Buck
+		WARNING: No materials have been assigned: 
+		num positions      :  3203
+		num normals        :  3203
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  12812
+		num triangles      :  1302
+		Skeleton stats:  
+			Total Influencers:  3203
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  3203
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  12812
+	processing begun of mesh:  gun_m24_Bugs
+		WARNING: No materials have been assigned: 
+		num positions      :  3686
+		num normals        :  3686
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  14744
+		num triangles      :  1418
+		Skeleton stats:  
+			Total Influencers:  3686
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  3686
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  14744
+	processing begun of mesh:  gun_m24_Cards
+		WARNING: No materials have been assigned: 
+		num positions      :  3236
+		num normals        :  3236
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  12944
+		num triangles      :  1438
+		Skeleton stats:  
+			Total Influencers:  3236
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  3236
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  12944
+	processing begun of mesh:  gun_m24_car
+		WARNING: No materials have been assigned: 
+		num positions      :  2770
+		num normals        :  2770
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  11080
+		num triangles      :  1324
+		Skeleton stats:  
+			Total Influencers:  2770
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  2770
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  11080
+	processing begun of mesh:  gun_m24_Chess
+		WARNING: No materials have been assigned: 
+		num positions      :  3072
+		num normals        :  3072
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  12288
+		num triangles      :  1220
+		Skeleton stats:  
+			Total Influencers:  3072
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  3072
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  12288
+	processing begun of mesh:  gun_m24_Chicken
+		WARNING: No materials have been assigned: 
+		num positions      :  3066
+		num normals        :  3066
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  12264
+		num triangles      :  1284
+		Skeleton stats:  
+			Total Influencers:  3066
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  3066
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  12264
+	processing begun of mesh:  gun_m24_Cyborg
+		WARNING: No materials have been assigned: 
+		num positions      :  2847
+		num normals        :  2847
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  11388
+		num triangles      :  1156
+		Skeleton stats:  
+			Total Influencers:  2847
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  2847
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  11388
+	processing begun of mesh:  gun_m24_Dino
+		WARNING: No materials have been assigned: 
+		num positions      :  2975
+		num normals        :  2975
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  11900
+		num triangles      :  1248
+		Skeleton stats:  
+			Total Influencers:  2975
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  2975
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  11900
+	processing begun of mesh:  gun_m24_Easter
+		WARNING: No materials have been assigned: 
+		num positions      :  2752
+		num normals        :  2752
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  11008
+		num triangles      :  1198
+		Skeleton stats:  
+			Total Influencers:  2752
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  2752
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  11008
+	processing begun of mesh:  gun_m24_Equinox
+		WARNING: No materials have been assigned: 
+		num positions      :  3624
+		num normals        :  3624
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  14496
+		num triangles      :  1427
+		Skeleton stats:  
+			Total Influencers:  3624
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  3624
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  14496
+	processing begun of mesh:  gun_m24_Farm
+		WARNING: No materials have been assigned: 
+		num positions      :  3798
+		num normals        :  3798
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  15192
+		num triangles      :  1316
+		Skeleton stats:  
+			Total Influencers:  3798
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  3798
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  15192
+	processing begun of mesh:  gun_m24_Flames
+		WARNING: No materials have been assigned: 
+		num positions      :  2505
+		num normals        :  2505
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  10020
+		num triangles      :  1082
+		Skeleton stats:  
+			Total Influencers:  2505
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  2505
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  10020
+	processing begun of mesh:  gun_m24_Fusion
+		WARNING: No materials have been assigned: 
+		num positions      :  3629
+		num normals        :  3629
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  14516
+		num triangles      :  1618
+		Skeleton stats:  
+			Total Influencers:  3796
+			Avg # of influencers per vertex:  1.046
+			Highest # of influencers observed:  2, num vertices with this:  167
+			exported as 2 influencers
+			num skeletonWeights and skeletonIndices:  14516
+	processing begun of mesh:  gun_m24_Galaxy
+		WARNING: No materials have been assigned: 
+		num positions      :  2901
+		num normals        :  2901
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  11604
+		num triangles      :  1266
+		Skeleton stats:  
+			Total Influencers:  2901
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  2901
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  11604
+	processing begun of mesh:  gun_m24_Gold
+		WARNING: No materials have been assigned: 
+		num positions      :  2905
+		num normals        :  2905
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  11620
+		num triangles      :  1208
+		Skeleton stats:  
+			Total Influencers:  2905
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  2905
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  11620
+	processing begun of mesh:  gun_m24_Graysocean
+		WARNING: No materials have been assigned: 
+		num positions      :  3287
+		num normals        :  3287
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  13148
+		num triangles      :  1256
+		Skeleton stats:  
+			Total Influencers:  3287
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  3287
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  13148
+	processing begun of mesh:  gun_m24_Groundhog
+		WARNING: No materials have been assigned: 
+		num positions      :  2660
+		num normals        :  2660
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  10640
+		num triangles      :  1124
+		Skeleton stats:  
+			Total Influencers:  2660
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  2660
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  10640
+	processing begun of mesh:  gun_m24_Grove
+		WARNING: No materials have been assigned: 
+		num positions      :  2818
+		num normals        :  2818
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  11272
+		num triangles      :  1054
+		Skeleton stats:  
+			Total Influencers:  2818
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  2818
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  11272
+	processing begun of mesh:  gun_m24_Halloween
+		WARNING: No materials have been assigned: 
+		num positions      :  3135
+		num normals        :  3135
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  12540
+		num triangles      :  1337
+		Skeleton stats:  
+			Total Influencers:  3135
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  3135
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  12540
+	processing begun of mesh:  gun_m24_Infernal
+		WARNING: No materials have been assigned: 
+		num positions      :  4145
+		num normals        :  4145
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  16580
+		num triangles      :  1410
+		Skeleton stats:  
+			Total Influencers:  4145
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  4145
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  16580
+	processing begun of mesh:  gun_m24_K4nny
+		WARNING: No materials have been assigned: 
+		num positions      :  3267
+		num normals        :  3267
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  13068
+		num triangles      :  1458
+		Skeleton stats:  
+			Total Influencers:  3267
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  3267
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  13068
+	processing begun of mesh:  gun_m24_Kart
+		WARNING: No materials have been assigned: 
+		num positions      :  3857
+		num normals        :  3857
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  15428
+		num triangles      :  1362
+		Skeleton stats:  
+			Total Influencers:  3857
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  3857
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  15428
+	processing begun of mesh:  gun_m24_Legacy
+		WARNING: No materials have been assigned: 
+		num positions      :  1891
+		num normals        :  1891
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  7564
+		num triangles      :  884
+		Skeleton stats:  
+			Total Influencers:  1891
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  1891
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  7564
+	processing begun of mesh:  gun_m24_Memphis
+		WARNING: No materials have been assigned: 
+		num positions      :  2285
+		num normals        :  2285
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  9140
+		num triangles      :  1024
+		Skeleton stats:  
+			Total Influencers:  2285
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  2285
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  9140
+	processing begun of mesh:  gun_m24_Meno
+		WARNING: No materials have been assigned: 
+		num positions      :  3698
+		num normals        :  3698
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  14792
+		num triangles      :  1492
+		Skeleton stats:  
+			Total Influencers:  3698
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  3698
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  14792
+	processing begun of mesh:  gun_m24_Merc
+		WARNING: No materials have been assigned: 
+		num positions      :  2699
+		num normals        :  2699
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  10796
+		num triangles      :  1162
+		Skeleton stats:  
+			Total Influencers:  2699
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  2699
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  10796
+	processing begun of mesh:  gun_m24_Music
+		WARNING: No materials have been assigned: 
+		num positions      :  3167
+		num normals        :  3167
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  12668
+		num triangles      :  1408
+		Skeleton stats:  
+			Total Influencers:  3167
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  3167
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  12668
+	processing begun of mesh:  gun_m24_NewYear
+		WARNING: No materials have been assigned: 
+		num positions      :  2934
+		num normals        :  2934
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  11736
+		num triangles      :  1222
+		Skeleton stats:  
+			Total Influencers:  2934
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  2934
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  11736
+	processing begun of mesh:  gun_m24_NewYear2020
+		WARNING: No materials have been assigned: 
+		num positions      :  3140
+		num normals        :  3140
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  12560
+		num triangles      :  1348
+		Skeleton stats:  
+			Total Influencers:  3140
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  3140
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  12560
+	processing begun of mesh:  gun_m24_NewYear2021
+		WARNING: No materials have been assigned: 
+		num positions      :  3067
+		num normals        :  3067
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  12268
+		num triangles      :  1336
+		Skeleton stats:  
+			Total Influencers:  3067
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  3067
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  12268
+	processing begun of mesh:  gun_m24_NewYear2022
+		WARNING: No materials have been assigned: 
+		num positions      :  3110
+		num normals        :  3110
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  12440
+		num triangles      :  1352
+		Skeleton stats:  
+			Total Influencers:  3110
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  3110
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  12440
+	processing begun of mesh:  gun_m24_NewYear2023
+		WARNING: No materials have been assigned: 
+		num positions      :  3118
+		num normals        :  3118
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  12472
+		num triangles      :  1356
+		Skeleton stats:  
+			Total Influencers:  3118
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  3118
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  12472
+	processing begun of mesh:  gun_m24_NewYear2024
+		WARNING: No materials have been assigned: 
+		num positions      :  3084
+		num normals        :  3084
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  12336
+		num triangles      :  1342
+		Skeleton stats:  
+			Total Influencers:  3084
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  3084
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  12336
+	processing begun of mesh:  gun_m24_NukeZone
+		WARNING: No materials have been assigned: 
+		num positions      :  2774
+		num normals        :  2774
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  11096
+		num triangles      :  1522
+		Skeleton stats:  
+			Total Influencers:  2774
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  2774
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  11096
+	processing begun of mesh:  gun_m24_Pencil
+		WARNING: No materials have been assigned: 
+		num positions      :  2576
+		num normals        :  2576
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  10304
+		num triangles      :  1193
+		Skeleton stats:  
+			Total Influencers:  2576
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  2576
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  10304
+		WARNING: # of 0 area faces found:  16
+	processing begun of mesh:  gun_m24_Present
+		WARNING: No materials have been assigned: 
+		num positions      :  2418
+		num normals        :  2418
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  9672
+		num triangles      :  1046
+		Skeleton stats:  
+			Total Influencers:  2418
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  2418
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  9672
+	processing begun of mesh:  gun_m24_PresentRed
+		WARNING: No materials have been assigned: 
+		num positions      :  2391
+		num normals        :  2391
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  9564
+		num triangles      :  1038
+		Skeleton stats:  
+			Total Influencers:  2391
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  2391
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  9564
+	processing begun of mesh:  gun_m24_Quackshot
+		WARNING: No materials have been assigned: 
+		num positions      :  2379
+		num normals        :  2379
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  9516
+		num triangles      :  1025
+		Skeleton stats:  
+			Total Influencers:  2379
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  2379
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  9516
+	processing begun of mesh:  gun_m24_RaceCar
+		WARNING: No materials have been assigned: 
+		num positions      :  2880
+		num normals        :  2880
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  11520
+		num triangles      :  1291
+		Skeleton stats:  
+			Total Influencers:  2880
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  2880
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  11520
+	processing begun of mesh:  gun_m24_RaidLand
+		WARNING: No materials have been assigned: 
+		num positions      :  3402
+		num normals        :  3402
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  13608
+		num triangles      :  1438
+		Skeleton stats:  
+			Total Influencers:  3402
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  3402
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  13608
+	processing begun of mesh:  gun_m24_Rainbow
+		WARNING: No materials have been assigned: 
+		num positions      :  2708
+		num normals        :  2708
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  10832
+		num triangles      :  1154
+		Skeleton stats:  
+			Total Influencers:  2708
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  2708
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  10832
+	processing begun of mesh:  gun_m24_Retro
+		WARNING: No materials have been assigned: 
+		num positions      :  2180
+		num normals        :  2180
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  8720
+		num triangles      :  943
+		Skeleton stats:  
+			Total Influencers:  2180
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  2180
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  8720
+	processing begun of mesh:  gun_m24_Ruins
+		WARNING: No materials have been assigned: 
+		num positions      :  4132
+		num normals        :  4132
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  16528
+		num triangles      :  1398
+		Skeleton stats:  
+			Total Influencers:  4132
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  4132
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  16528
+	processing begun of mesh:  gun_m24_SaintPaddy
+		WARNING: No materials have been assigned: 
+		num positions      :  3392
+		num normals        :  3392
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  13568
+		num triangles      :  1372
+		Skeleton stats:  
+			Total Influencers:  3392
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  3392
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  13568
+	processing begun of mesh:  gun_m24_Scavenger
+		WARNING: No materials have been assigned: 
+		num positions      :  3104
+		num normals        :  3104
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  12416
+		num triangles      :  1412
+		Skeleton stats:  
+			Total Influencers:  3104
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  3104
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  12416
+		WARNING: # of 0 area faces found:  2
+	processing begun of mesh:  gun_m24_Snake
+		WARNING: No materials have been assigned: 
+		num positions      :  4042
+		num normals        :  4042
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  16168
+		num triangles      :  1578
+		Skeleton stats:  
+			Total Influencers:  4042
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  4042
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  16168
+	processing begun of mesh:  gun_m24_SnakeAlbino
+		WARNING: No materials have been assigned: 
+		num positions      :  4040
+		num normals        :  4040
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  16160
+		num triangles      :  1578
+		Skeleton stats:  
+			Total Influencers:  4040
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  4040
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  16160
+	processing begun of mesh:  gun_m24_spaceEgg
+		WARNING: No materials have been assigned: 
+		num positions      :  2340
+		num normals        :  2340
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  9360
+		num triangles      :  1094
+		Skeleton stats:  
+			Total Influencers:  2340
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  2340
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  9360
+	processing begun of mesh:  gun_m24_spaceEggAlt
+		WARNING: No materials have been assigned: 
+		num positions      :  2312
+		num normals        :  2312
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  9248
+		num triangles      :  1094
+		Skeleton stats:  
+			Total Influencers:  2312
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  2312
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  9248
+	processing begun of mesh:  gun_m24_Sports
+		WARNING: No materials have been assigned: 
+		num positions      :  2548
+		num normals        :  2548
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  10192
+		num triangles      :  994
+		Skeleton stats:  
+			Total Influencers:  2548
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  2548
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  10192
+	processing begun of mesh:  gun_m24_Steampunk
+		WARNING: No materials have been assigned: 
+		num positions      :  3207
+		num normals        :  3207
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  12828
+		num triangles      :  1249
+		Skeleton stats:  
+			Total Influencers:  3207
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  3207
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  12828
+	processing begun of mesh:  gun_m24_Techno
+		WARNING: No materials have been assigned: 
+		num positions      :  2959
+		num normals        :  2959
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  11836
+		num triangles      :  1268
+		Skeleton stats:  
+			Total Influencers:  2959
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  2959
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  11836
+	processing begun of mesh:  gun_m24_Toxic
+		WARNING: No materials have been assigned: 
+		num positions      :  2686
+		num normals        :  2686
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  10744
+		num triangles      :  1224
+		Skeleton stats:  
+			Total Influencers:  2686
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  2686
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  10744
+	processing begun of mesh:  gun_m24_Turkey
+		WARNING: No materials have been assigned: 
+		num positions      :  3217
+		num normals        :  3217
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  12868
+		num triangles      :  1306
+		Skeleton stats:  
+			Total Influencers:  3217
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  3217
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  12868
+	processing begun of mesh:  gun_m24_Valentines
+		WARNING: No materials have been assigned: 
+		num positions      :  3126
+		num normals        :  3126
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  12504
+		num triangles      :  1282
+		Skeleton stats:  
+			Total Influencers:  3126
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  3126
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  12504
+	processing begun of mesh:  gun_m24_Valkyrie
+		WARNING: No materials have been assigned: 
+		num positions      :  2924
+		num normals        :  2924
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  11696
+		num triangles      :  1183
+		Skeleton stats:  
+			Total Influencers:  2924
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  2924
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  11696
+	processing begun of mesh:  gun_m24_Watergun
+		WARNING: No materials have been assigned: 
+		num positions      :  2997
+		num normals        :  2997
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  11988
+		num triangles      :  1294
+		Skeleton stats:  
+			Total Influencers:  2997
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  2997
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  11988
+	processing begun of mesh:  gun_m24_Wizard
+		WARNING: No materials have been assigned: 
+		num positions      :  4030
+		num normals        :  4030
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  16120
+		num triangles      :  1368
+		Skeleton stats:  
+			Total Influencers:  4030
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  4030
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  16120
+	processing begun of mesh:  gun_m24_Bones
+		WARNING: No materials have been assigned: 
+		num positions      :  4230
+		num normals        :  4230
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  16920
+		num triangles      :  1429
+		Skeleton stats:  
+			Total Influencers:  4230
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  4230
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  16920
+	processing begun of mesh:  Icosphere
+		WARNING: No materials have been assigned: 
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  480
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  80
+========= Writing of JSON file started =========
+	writing mesh:  gun_m24
+	writing mesh:  gun_m24_Badegg
+	writing mesh:  gun_m24_Bear
+	writing mesh:  gun_m24_Breakfast
+	writing mesh:  gun_m24_Buck
+	writing mesh:  gun_m24_Bugs
+	writing mesh:  gun_m24_Cards
+	writing mesh:  gun_m24_car
+	writing mesh:  gun_m24_Chess
+	writing mesh:  gun_m24_Chicken
+	writing mesh:  gun_m24_Cyborg
+	writing mesh:  gun_m24_Dino
+	writing mesh:  gun_m24_Easter
+	writing mesh:  gun_m24_Equinox
+	writing mesh:  gun_m24_Farm
+	writing mesh:  gun_m24_Flames
+	writing mesh:  gun_m24_Fusion
+	writing mesh:  gun_m24_Galaxy
+	writing mesh:  gun_m24_Gold
+	writing mesh:  gun_m24_Graysocean
+	writing mesh:  gun_m24_Groundhog
+	writing mesh:  gun_m24_Grove
+	writing mesh:  gun_m24_Halloween
+	writing mesh:  gun_m24_Infernal
+	writing mesh:  gun_m24_K4nny
+	writing mesh:  gun_m24_Kart
+	writing mesh:  gun_m24_Legacy
+	writing mesh:  gun_m24_Memphis
+	writing mesh:  gun_m24_Meno
+	writing mesh:  gun_m24_Merc
+	writing mesh:  gun_m24_Music
+	writing mesh:  gun_m24_NewYear
+	writing mesh:  gun_m24_NewYear2020
+	writing mesh:  gun_m24_NewYear2021
+	writing mesh:  gun_m24_NewYear2022
+	writing mesh:  gun_m24_NewYear2023
+	writing mesh:  gun_m24_NewYear2024
+	writing mesh:  gun_m24_NukeZone
+	writing mesh:  gun_m24_Pencil
+	writing mesh:  gun_m24_Present
+	writing mesh:  gun_m24_PresentRed
+	writing mesh:  gun_m24_Quackshot
+	writing mesh:  gun_m24_RaceCar
+	writing mesh:  gun_m24_RaidLand
+	writing mesh:  gun_m24_Rainbow
+	writing mesh:  gun_m24_Retro
+	writing mesh:  gun_m24_Ruins
+	writing mesh:  gun_m24_SaintPaddy
+	writing mesh:  gun_m24_Scavenger
+	writing mesh:  gun_m24_Snake
+	writing mesh:  gun_m24_SnakeAlbino
+	writing mesh:  gun_m24_spaceEgg
+	writing mesh:  gun_m24_spaceEggAlt
+	writing mesh:  gun_m24_Sports
+	writing mesh:  gun_m24_Steampunk
+	writing mesh:  gun_m24_Techno
+	writing mesh:  gun_m24_Toxic
+	writing mesh:  gun_m24_Turkey
+	writing mesh:  gun_m24_Valentines
+	writing mesh:  gun_m24_Valkyrie
+	writing mesh:  gun_m24_Watergun
+	writing mesh:  gun_m24_Wizard
+	writing mesh:  gun_m24_Bones
+	writing mesh:  Icosphere
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 9.2048 secs
